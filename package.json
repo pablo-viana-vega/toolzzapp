@@ -1,0 +1,14 @@
+{
+  "name": "toolzz-prod",
+  "version": "1.0.0",
+  "description": "toolzz application interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "pablo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
