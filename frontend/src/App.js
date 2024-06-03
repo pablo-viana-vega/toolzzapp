@@ -45,7 +45,7 @@ function App() {
                     backgroundColor: "hsl(0, 0%, 90%)",
                     transition: "background-color:300ms",
                   }}
-                  src="https://s3-alpha-sig.figma.com/img/0098/a98c/088e5938770b5dba8d9f164aeb9bc062?Expires=1711324800&amp;Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&amp;Signature=pKZMCWMIDh7xbpErOrTkF4kqMUvW61BDmYvb5QNCf~Tkbbd669HNeJ4cCkYxi8V6vA-Od6CnjldzyWHgVvemuFswiONQiXNU9gzo7ChhdwWHhmJZdPV9pdyyxe3Kyyf0aVD2rqt4AC~SPm-~zZpOxX8fT9IMbDsWP1FLpfV3rwL857krkt8PneO4wZjTHrMx~3s-t73hSTA6kNxTI6oJ2j0t~0tT7gnxmV9-5VuLOUiAVx0EMWz8r2dRNJd-gPNK~Oo-rp4y7ALLSjp04JXLJOMuhuy5YV2LUoHYaBaQHlMfybXHgUMTVgJgH~DEyR52A0wjkEPL91Jf1GLhPfOaqA__"
+                  src="bg.jfif"
                 />
                 <Carousel.Caption>
                   <Button
@@ -76,7 +76,7 @@ function App() {
                     backgroundColor: "hsl(0, 0%, 90%)",
                     transition: "background-color:300ms",
                   }}
-                  src="https://s3-alpha-sig.figma.com/img/0098/a98c/088e5938770b5dba8d9f164aeb9bc062?Expires=1711324800&amp;Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&amp;Signature=pKZMCWMIDh7xbpErOrTkF4kqMUvW61BDmYvb5QNCf~Tkbbd669HNeJ4cCkYxi8V6vA-Od6CnjldzyWHgVvemuFswiONQiXNU9gzo7ChhdwWHhmJZdPV9pdyyxe3Kyyf0aVD2rqt4AC~SPm-~zZpOxX8fT9IMbDsWP1FLpfV3rwL857krkt8PneO4wZjTHrMx~3s-t73hSTA6kNxTI6oJ2j0t~0tT7gnxmV9-5VuLOUiAVx0EMWz8r2dRNJd-gPNK~Oo-rp4y7ALLSjp04JXLJOMuhuy5YV2LUoHYaBaQHlMfybXHgUMTVgJgH~DEyR52A0wjkEPL91Jf1GLhPfOaqA__"
+                  src="bg.jfif"
                 />
                 <Carousel.Caption>
                   <Button
@@ -107,7 +107,7 @@ function App() {
                     backgroundColor: "hsl(0, 0%, 90%)",
                     transition: "background-color:300ms",
                   }}
-                  src="https://s3-alpha-sig.figma.com/img/0098/a98c/088e5938770b5dba8d9f164aeb9bc062?Expires=1711324800&amp;Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&amp;Signature=pKZMCWMIDh7xbpErOrTkF4kqMUvW61BDmYvb5QNCf~Tkbbd669HNeJ4cCkYxi8V6vA-Od6CnjldzyWHgVvemuFswiONQiXNU9gzo7ChhdwWHhmJZdPV9pdyyxe3Kyyf0aVD2rqt4AC~SPm-~zZpOxX8fT9IMbDsWP1FLpfV3rwL857krkt8PneO4wZjTHrMx~3s-t73hSTA6kNxTI6oJ2j0t~0tT7gnxmV9-5VuLOUiAVx0EMWz8r2dRNJd-gPNK~Oo-rp4y7ALLSjp04JXLJOMuhuy5YV2LUoHYaBaQHlMfybXHgUMTVgJgH~DEyR52A0wjkEPL91Jf1GLhPfOaqA__"
+                  src="bg.jfif"
                 />
                 <Carousel.Caption>
                   <Button
@@ -150,7 +150,7 @@ function App() {
           left: "10px",
           borderRadius: "50%",
           backgroundColor: "transparent",
-         // border: "none",
+          // border: "none",
           zIndex: "10000",
           border: "1px solid #fff",
         }}
